@@ -66,8 +66,7 @@ A fully functional, responsive Employee Management System built with **React**, 
 
 ## 🙋‍♂️ Author
 
-**Sahil Tyagi**  
-📧 [LinkedIn](https://www.linkedin.com/in/sahil-tyagi-716527242/)
+**Sahil Kumar**  
 
 ---
 
