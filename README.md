@@ -8,7 +8,7 @@ A fully functional, responsive Employee Management System built with **React**, 
 
 ---
 
-## ✨ Features
+## ✨  Features
 
 - 🔐 Login functionality for both **Admin** and **Employee**
 - 📊 Role-based dashboards with custom data views
